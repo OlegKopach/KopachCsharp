@@ -1,0 +1,8 @@
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\bin\Debug\KopachCsharp.exe.config
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\bin\Debug\KopachCsharp.exe
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\bin\Debug\KopachCsharp.pdb
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\obj\Debug\KopachCsharp.csproj.AssemblyReference.cache
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\obj\Debug\KopachCsharp.csproj.SuggestedBindingRedirects.cache
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\obj\Debug\KopachCsharp.csproj.CoreCompileInputs.cache
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\obj\Debug\KopachCsharp.exe
+Q:\dev\Anderson\-Andersen-Trainee\KopachCsharp\KopachCsharp\obj\Debug\KopachCsharp.pdb
